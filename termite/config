@@ -1,0 +1,5 @@
+[options]
+font = Hack Nerd Font Mono 10
+
+[colors]
+background=rgb(37,34,30)
